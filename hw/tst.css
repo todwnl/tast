@@ -1,0 +1,27 @@
+body {
+    background-color: darkslategrey;
+}
+hr {
+    color: rgb(0, 255, 255);
+    border: 2px solid turquoise;
+}
+a {
+    color: chartreuse;
+    border: 2px solid turquoise;
+    font-size: 50px;
+}
+h1 {
+    color: blueviolet;
+    border: 2px solid turquoise;
+}
+h2 {
+    color: aliceblue;
+    border: 2px solid turquoise;
+}
+h3 {
+    color: brown;
+    border: 2px solid turquoise;
+}
+small {
+    color: darkorange;
+}
